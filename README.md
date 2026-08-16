@@ -52,8 +52,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### 🛠️ DevOps, Tools & Workflow
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+#### 🛠️ Cloud, DevOps & Tools
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -112,7 +111,6 @@
 | **API Security Scanner** | `Python` `AST` `Security Tooling` | Cyber Defense & API Security | [View Code →](https://github.com/Atharv-design/api-security-scanner) |
 | **NeuroFlow** | `TypeScript` `Python` `AI Pipeline` | Intelligent Workflows & Systems | [View Code →](https://github.com/Atharv-design/NeuroFlow) |
 | **Cyber-Research-Internship** | `Security` `Network Auditing` | Cybersecurity Research | [View Code →](https://github.com/Atharv-design/Cyber-Research-Internship) |
-| **searxng-custom** | `Docker` `Shell` `Privacy Engine` | Privacy Search Deployment | [View Code →](https://github.com/Atharv-design/searxng-custom) |
 
 ---
 
