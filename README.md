@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:atharvgupta790@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atharvgupta790@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Atharv-design&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
