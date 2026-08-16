@@ -5,8 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;FinTech+%26+Cybersecurity+Engineer;MERN+%2B+TypeScript+%2B+Python+Builder;Building+Scalable+Production-Ready+Applications)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/atharv-gupta-930009403"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:atharvgupta790@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/atharv-gupta-930009403/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:atharvgupta790@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Atharv-design&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -19,7 +25,7 @@
 - 🔭 **Featured Project:** Building **[TradeScope](https://github.com/Atharv-design/TradeScope)** — Institutional-grade real-time market intelligence terminal with zero-downtime architecture.
 - 💻 **Passionate Developer:** Crafting modern, scalable and high-performance web applications with clean code and great UX.
 - 👯 **Open to Collaborations:** Innovative Web Development, FinTech & Open Source projects.
-- 🤝 **Connecting:** Looking to connect with developers, founders and tech communities.
+- 🤝 **Connecting:** Looking to connect with developers, founders and tech communities on [LinkedIn](https://www.linkedin.com/in/atharv-gupta-930009403/).
 - 🌱 **Currently Learning:** System Design, Distributed Systems, Cloud Computing, DevOps and AI Integration.
 - 💬 **Ask Me About:** MERN Stack, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, WebSockets & Backend Architecture.
 - ⚡ **Philosophy:** Transforming complex ideas into production-ready, resilient applications.
@@ -111,30 +117,6 @@
 | **API Security Scanner** | `Python` `AST` `Security Tooling` | Cyber Defense & API Security | [View Code →](https://github.com/Atharv-design/api-security-scanner) |
 | **NeuroFlow** | `TypeScript` `Python` `AI Pipeline` | Intelligent Workflows & Systems | [View Code →](https://github.com/Atharv-design/NeuroFlow) |
 | **Cyber-Research-Internship** | `Security` `Network Auditing` | Cybersecurity Research | [View Code →](https://github.com/Atharv-design/Cyber-Research-Internship) |
-
----
-
-### 📊 Real-Time GitHub Activity & Commit Analytics:
-
-<div align="center">
-
-  <!-- Dynamic Streak Stats (Real-Time Commits) -->
-  <a href="https://github.com/Atharv-design">
-    <img src="https://streak-stats.demolab.com/?user=Atharv-design&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" width="49%" alt="GitHub Streak" />
-  </a>
-  <!-- Clean Overall Commit Stats (No Fake Rank) -->
-  <a href="https://github.com/Atharv-design">
-    <img src="https://github-readme-stats.shion.dev/api?username=Atharv-design&theme=tokyonight&show_icons=true&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&hide_rank=true" width="49%" alt="Atharv's Lifetime Commits & Stats" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Dynamic Commit Activity Graph (Live Curve) -->
-  <a href="https://github.com/Atharv-design">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-design&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
-  </a>
-
-</div>
 
 ---
 
