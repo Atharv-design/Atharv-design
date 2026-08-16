@@ -2,7 +2,7 @@
 
 # 💫 Hi there, I'm Atharv Gupta 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;FinTech+%26+Real-Time+Systems+Architect;MERN+%2B+TypeScript+%2B+Python+Builder;Building+Scalable+Production-Ready+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;FinTech+%26+Cybersecurity+Engineer;MERN+%2B+TypeScript+%2B+Python+Builder;Building+Scalable+Production-Ready+Applications)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/atharv-gupta-930009403"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,41 +10,62 @@
   <img src="https://komarev.com/ghpvc/?username=Atharv-design&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- GitHub Lifetime Achievement Trophies -->
-<a href="https://github.com/Atharv-design">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-design&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</a>
-
 </div>
 
 ---
 
-### 🚀 Featured Projects & Repositories:
+### 🚀 Featured Projects & Repositories
 
 <div align="center">
 
 <!-- Project 1: TradeScope -->
-<a href="https://github.com/Atharv-design/TradeScope">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharv-design&repo=TradeScope&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="TradeScope Project" />
-</a>
-<!-- Project 2: Cyber Research -->
-<a href="https://github.com/Atharv-design/Cyber-Research-Internship">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharv-design&repo=Cyber-Research-Internship&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Cyber Research Repo" />
-</a>
+### 📈 [TradeScope](https://github.com/Atharv-design/TradeScope)
+> **Institutional Real-Time Market Intelligence Terminal**  
+> *Built with React, TypeScript, Node.js, WebSockets, Tailwind CSS & Groww Live Feed*  
+> Real-time Indian equity tracking, zero-downtime circuit breaker resilience, multi-timeframe analytics, paper trading & interactive Zerodha Varsity study suite.  
+> 🔗 **[Explore Repository →](https://github.com/Atharv-design/TradeScope)**
+
+---
+
+<!-- Project 2: API Security Scanner -->
+### 🛡️ [API Security Scanner](https://github.com/Atharv-design/api-security-scanner)
+> **Automated Vulnerability & API Threat Detection System**  
+> *Built with Python, Cybersecurity Frameworks, REST Security & AST Analysis*  
+> Scans REST APIs, detects OWASP API Top 10 vulnerabilities, unauthorized access points, token leakages, and generates security audit reports.  
+> 🔗 **[Explore Repository →](https://github.com/Atharv-design/api-security-scanner)**
+
+---
+
+<!-- Project 3: NeuroFlow -->
+### 🧠 [NeuroFlow](https://github.com/Atharv-design/NeuroFlow)
+> **Intelligent Automated Workflow & AI Execution Pipeline**  
+> *Built with Python, TypeScript, Asynchronous Task Queue & Modern UI*  
+> High-throughput workflow engine for automated data orchestration, neural workflows, and system integration.  
+> 🔗 **[Explore Repository →](https://github.com/Atharv-design/NeuroFlow)**
+
+---
+
+<!-- Project 4: Cyber Research Internship -->
+### 🔐 [Cyber Research Internship](https://github.com/Atharv-design/Cyber-Research-Internship)
+> **Cybersecurity Research & Incident Analysis Repository**  
+> *Threat intelligence, penetration testing methodologies, security architecture & network auditing research.*  
+> 🔗 **[Explore Repository →](https://github.com/Atharv-design/Cyber-Research-Internship)**
 
 </div>
 
 <br/>
 
-| 🚀 Project | 🛠️ Tech Stack | 📌 Description | 🔗 Repository |
+| 🚀 Repository | 🛠️ Core Tech | 📌 Focus Domain | 🔗 GitHub Link |
 | :--- | :--- | :--- | :--- |
-| **TradeScope** | `React` `TypeScript` `Node.js` `WebSockets` `Tailwind` | Institutional real-time trading intelligence terminal with live Groww feed & zero-downtime resiliency | [View Project →](https://github.com/Atharv-design/TradeScope) |
-| **Cyber-Research-Internship** | `Python` `Cybersecurity` `Research` | Advanced cybersecurity research, network security & vulnerability analysis | [View Project →](https://github.com/Atharv-design/Cyber-Research-Internship) |
-| **searxng-custom** | `Docker` `Shell` `Privacy Engine` | Custom privacy-focused metasearch engine deployment | [View Project →](https://github.com/Atharv-design/searxng-custom) |
+| **TradeScope** | `React` `TypeScript` `WebSockets` `Node.js` | FinTech & Real-Time Trading | [View Code →](https://github.com/Atharv-design/TradeScope) |
+| **API Security Scanner** | `Python` `AST` `Security Tooling` | Cyber Defense & API Security | [View Code →](https://github.com/Atharv-design/api-security-scanner) |
+| **NeuroFlow** | `TypeScript` `Python` `AI Pipeline` | Intelligent Workflows & Systems | [View Code →](https://github.com/Atharv-design/NeuroFlow) |
+| **Cyber-Research-Internship** | `Security` `Network Auditing` | Cybersecurity Research | [View Code →](https://github.com/Atharv-design/Cyber-Research-Internship) |
+| **searxng-custom** | `Docker` `Shell` `Privacy Engine` | Privacy Search Deployment | [View Code →](https://github.com/Atharv-design/searxng-custom) |
 
 ---
 
-### 📈 Lifetime Commits & Real-Time Stats (All History Included):
+### 📊 Real-Time GitHub Activity & Commit Stats:
 
 <div align="center">
 
@@ -66,7 +87,7 @@
 
   <br/><br/>
 
-  <!-- Dynamic Commit Activity Graph -->
+  <!-- Dynamic Commit Activity Graph (Live Curve) -->
   <a href="https://github.com/Atharv-design">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-design&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
   </a>
