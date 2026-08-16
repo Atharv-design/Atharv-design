@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Atharv-design&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- GitHub Lifetime Trophies -->
+<!-- GitHub Lifetime Achievement Trophies -->
 <a href="https://github.com/Atharv-design">
   <img src="https://github-profile-trophy.vercel.app/?username=Atharv-design&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </a>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 Featured Projects & Repositories
+### 🚀 Featured Projects & Repositories:
 
 <div align="center">
 
@@ -27,28 +27,28 @@
 <a href="https://github.com/Atharv-design/TradeScope">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharv-design&repo=TradeScope&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="TradeScope Project" />
 </a>
-<!-- Project 2: Web Dev Portfolio / App -->
-<a href="https://github.com/Atharv-design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharv-design&repo=Atharv-design&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Portfolio Repo" />
+<!-- Project 2: Cyber Research -->
+<a href="https://github.com/Atharv-design/Cyber-Research-Internship">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharv-design&repo=Cyber-Research-Internship&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Cyber Research Repo" />
 </a>
 
 </div>
 
 <br/>
 
-| 🚀 Project | 🛠️ Tech Stack | 📌 Description | 🔗 Link |
+| 🚀 Project | 🛠️ Tech Stack | 📌 Description | 🔗 Repository |
 | :--- | :--- | :--- | :--- |
-| **TradeScope** | `React` `TypeScript` `Node.js` `WebSockets` `Tailwind` | Institutional real-time trading intelligence terminal with live Groww feed & zero-downtime resiliency | [View Code →](https://github.com/Atharv-design/TradeScope) |
-| **MERN Full-Stack Apps** | `MongoDB` `Express` `React` `Node.js` | Scalable modern web platforms with authentication, REST APIs & responsive UI | [Explore Repos →](https://github.com/Atharv-design?tab=repositories) |
-| **Python & Backend Engines** | `Python` `FastAPI` `PostgreSQL` | High-performance asynchronous backend services & data pipelines | [Explore Repos →](https://github.com/Atharv-design?tab=repositories) |
+| **TradeScope** | `React` `TypeScript` `Node.js` `WebSockets` `Tailwind` | Institutional real-time trading intelligence terminal with live Groww feed & zero-downtime resiliency | [View Project →](https://github.com/Atharv-design/TradeScope) |
+| **Cyber-Research-Internship** | `Python` `Cybersecurity` `Research` | Advanced cybersecurity research, network security & vulnerability analysis | [View Project →](https://github.com/Atharv-design/Cyber-Research-Internship) |
+| **searxng-custom** | `Docker` `Shell` `Privacy Engine` | Custom privacy-focused metasearch engine deployment | [View Project →](https://github.com/Atharv-design/searxng-custom) |
 
 ---
 
-### 📈 Lifetime Commits & Real-Time Stats (All History Included)
+### 📈 Lifetime Commits & Real-Time Stats (All History Included):
 
 <div align="center">
 
-  <!-- Real-Time Streak Stats (Updates with each commit) -->
+  <!-- Dynamic Streak Stats (Real-Time Commits) -->
   <a href="https://github.com/Atharv-design">
     <img src="https://streak-stats.demolab.com/?user=Atharv-design&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="49%" alt="GitHub Streak" />
   </a>
@@ -59,7 +59,7 @@
 
   <br/><br/>
 
-  <!-- Lifetime All History Commits & Activity (Public + Private) -->
+  <!-- Lifetime All History Commits & Activity (Public + Private Included) -->
   <a href="https://github.com/Atharv-design">
     <img src="https://github-readme-stats.vercel.app/api?username=Atharv-design&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&line_height=26" width="98%" alt="Atharv's Lifetime Commits & Stats" />
   </a>
