@@ -33,30 +33,18 @@
 
 ### 👨‍💻 Executive Summary & Bio
 
-<table>
-  <tr>
-    <td width="66%" valign="top">
-      <h3>Hey there! I'm Atharv R. Gupta 👋</h3>
-      <p>
-        I am a <b>Full-Stack Developer & Cybersecurity Researcher</b> based in Mumbai, India, pursuing my <b>B.Sc. in Computer Science (2024–2027)</b> at <i>Mulund College of Commerce (Autonomous)</i>.
-      </p>
-      <p>
-        My core engineering focus spans <b>scalable full-stack web applications (MERN + TypeScript)</b>, <b>real-time streaming architectures</b>, and <b>offensive/defensive application security</b>. Having interned as a Cybersecurity Researcher at <b>RedKross Research Foundation</b>, I bridge deep systems security (OWASP API Top 10, penetration testing, malware triage) with high-performance client experiences.
-      </p>
-      <p>
-        I specialize in engineering low-latency systems—from <b>TradeScope</b> (a real-time Indian equity terminal with sub-2s streaming Groww API feeds & quantitative indicators) to <b>ATHX</b> (an automated API vulnerability scanner with 52 DAST probes and LLM-driven remediation).
-      </p>
-    </td>
-    <td width="34%" valign="top">
-      <h4 align="center">⚡ Quick Profile Terminal</h4>
+> **Full-Stack Developer & Cybersecurity Researcher** based in Mumbai, India 🇮🇳  
+> Pursuing **B.Sc. in Computer Science (2024–2027)** at *Mulund College of Commerce (Autonomous)*  
+> Former **Cybersecurity Intern** at *RedKross Research Foundation*
+
+I specialize in bridging the gap between **high-throughput backend systems** and **fluid, reactive user interfaces**. My core engineering focus is centered on **zero-downtime distributed architectures**, **real-time streaming WebSockets**, and **defensive/offensive application security (OWASP API Top 10)**.
 
 ```yaml
 Developer: Atharv R. Gupta
 Location: Mumbai, India 🇮🇳
-Degree: BSc CS (2024–2027)
-College: MCC (Autonomous)
-Internship: RedKross Research
-Status: Open for Internships & Gigs
-Live Portfolio: portfolio-tawny-eight-62
-Credentials: [ISC2 CC, AWS, HuggingFace]
-Core Stack: React 19 • Node • TS • Docker
+Degree: B.Sc. Comp Sci (2024–2027) @ MCC (Autonomous)
+Internship: RedKross Research Foundation
+Status: Open for Internships & Projects
+Live Portfolio: https://portfolio-tawny-eight-62.vercel.app
+Credentials: [ISC2 CC, AWS Cloud, Hugging Face Agents, Helsinki Containers]
+Core Stack: React 19 • Node.js • TypeScript • Docker • Python • MongoDB
