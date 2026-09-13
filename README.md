@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- 🌟 Top Animated Hero Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=230&section=header&text=Atharv%20R.%20Gupta&fontSize=48&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Developer%20%26%20Cybersecurity%20Researcher&descAlignY=58&descSize=19" width="100%" alt="Atharv Gupta Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=230&section=header&text=Atharv%20R.%20Gupta&fontSize=48&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Developer%20%26amp%3B%20Cybersecurity%20Researcher&descAlignY=58&descSize=19" width="100%" alt="Atharv Gupta Banner" />
 
   <!-- ⚡ Dynamic Live Neon Typing SVG (Outfit - Portfolio Display Font) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Developer+%7C+MERN+%26+Real-Time+Systems;Building+TradeScope+%E2%80%94+Indian+Equity+%26+Quant+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;React+19+%2B+TypeScript+%2B+Node.js+%2B+Docker+%2B+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Developer+%7C+MERN+%2B+Real-Time+Systems;Building+TradeScope+%E2%80%94+Indian+Equity+%2B+Quant+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;React+19+%2B+TypeScript+%2B+Node.js+%2B+Docker+%2B+Python" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -235,7 +235,7 @@ Computer Science undergraduate focused on **Full-Stack Web Development**, with h
 
 <div align="center">
 
-  #### 🌐 Core Programming Languages
+  <h4>🌐 Core Programming Languages</h4>
   <p align="center">
     <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript: Strongly-Typed Production JavaScript"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript (ES6+): Modern Client & Server Development"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
@@ -246,7 +246,7 @@ Computer Science undergraduate focused on **Full-Stack Web Development**, with h
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3: Responsive Layouts & Modern Styling"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
   </p>
 
-  #### ⚛️ Frontend Ecosystem
+  <h4>⚛️ Frontend Ecosystem</h4>
   <p align="center">
     <a href="https://react.dev/" target="_blank" title="React 19: Component-Driven Modern SPAs & Hooks"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" /></a>
     <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS: Utility-First Rapid Responsive Styling"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
@@ -256,7 +256,7 @@ Computer Science undergraduate focused on **Full-Stack Web Development**, with h
     <a href="https://axios-http.com/" target="_blank" title="Axios: Promise-Based HTTP Client with Interceptors"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" /></a>
   </p>
 
-  #### ⚙️ Backend Architecture & Databases
+  <h4>⚙️ Backend Architecture & Databases</h4>
   <p align="center">
     <a href="https://nodejs.org/" target="_blank" title="Node.js: Asynchronous Non-Blocking Event-Driven Runtime"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
     <a href="https://expressjs.com/" target="_blank" title="Express.js: Robust RESTful API Routing & Custom Middlewares"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
@@ -267,7 +267,7 @@ Computer Science undergraduate focused on **Full-Stack Web Development**, with h
     <a href="https://graphql.org/" target="_blank" title="GraphQL: Declarative API Query Language & Resolvers"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
   </p>
 
-  #### 🛡️ Cybersecurity, Cloud & DevOps
+  <h4>🛡️ Cybersecurity, Cloud & DevOps</h4>
   <p align="center">
     <a href="https://portswigger.net/burp" target="_blank" title="Burp Suite: Web Application Security Auditing & Intercepting Proxy"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" /></a>
     <a href="https://www.zaproxy.org/" target="_blank" title="OWASP ZAP: Automated Dynamic Application Security Testing"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" /></a>
