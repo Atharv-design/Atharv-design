@@ -5,7 +5,7 @@
 
   <!-- ⚡ Dynamic Live Neon Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&weight=600&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Engineer+%7C+Real-Time+Systems+%26+FinTech;Building+TradeScope+%E2%80%94+Institutional+Indian+Equity+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;MERN+%2B+TypeScript+%2B+Docker+%2B+WebSockets+%2B+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&weight=600&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Developer+%7C+Real-Time+Systems+%26+FinTech;Building+TradeScope+%E2%80%94+Institutional+Indian+Equity+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;MERN+%2B+TypeScript+%2B+Docker+%2B+WebSockets+%2B+Python" alt="Typing SVG" />
   </a>
 
   <br/><br/>
