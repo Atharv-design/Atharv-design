@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- 🌟 Top Animated Hero Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=230&section=header&text=Atharv%20R.%20Gupta&fontSize=48&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20FinTech%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=19&fontFamily=Fjalla+One" width="100%" alt="Atharv Gupta Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=230&section=header&text=Atharv%20R.%20Gupta&fontSize=48&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20FinTech%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=19" width="100%" alt="Atharv Gupta Banner" />
 
-  <!-- ⚡ Dynamic Live Neon Typing SVG -->
+  <!-- ⚡ Dynamic Live Neon Typing SVG (Outfit - Portfolio Display Font) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&weight=600&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Developer+%7C+Real-Time+Systems+%26+FinTech;Building+TradeScope+%E2%80%94+Institutional+Indian+Equity+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;MERN+%2B+TypeScript+%2B+Docker+%2B+WebSockets+%2B+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Engineer+%7C+Real-Time+Systems+%26+FinTech;Building+TradeScope+%E2%80%94+Institutional+Indian+Equity+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;MERN+%2B+TypeScript+%2B+Docker+%2B+WebSockets+%2B+Python" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -45,31 +45,52 @@
 ---
 
 <!-- ========================================== -->
-<!-- 2. ABOUT SECTION & EXECUTIVE SUMMARY       -->
+<!-- 2. ABOUT SECTION & PERSONAL DOSSIER        -->
 <!-- ========================================== -->
-### 👨‍💻 About Me & Executive Pitch
+### 👨‍💻 Personal Dossier & About Me
 
-> **Full-Stack Software Engineer & Cybersecurity Researcher** based in Mumbai, India 🇮🇳  
-> Pursuing **B.Sc. in Computer Science (2024–2027)** at *Mulund College of Commerce (Autonomous)*  
-> Former **Cybersecurity Intern** at *RedKross Research Foundation*
+> *"Building full-stack systems with an engineering-first mindset — turning complex requirements into scalable architectures, secure APIs, and intuitive web experiences that perform reliably in production."*
 
-I engineer scalable full-stack applications with **MERN, TypeScript, and Docker**, focusing on **zero-downtime distributed architectures**, **sub-second streaming WebSockets**, and **defensive AppSec (OWASP API Top 10)**.
+Computer Science undergraduate focused on **Full-Stack Web Development**, with hands-on experience building and deploying production-oriented web applications using **React.js, Node.js, Express.js, MongoDB, and TypeScript**. Experienced in developing **REST APIs, authentication systems, Progressive Web Apps (PWAs), real-time streaming architectures**, and **AI-powered workflow applications**. Complemented by offensive security & **DAST vulnerability research** at RedKross Research Foundation.
 
 <pre>
-<b>Candidate:</b> Atharv R. Gupta
-<b>Education:</b> B.Sc. Computer Science (2024–2027) @ Mulund College of Commerce (Autonomous)
-<b>Core Strengths:</b> Real-Time FinTech Streaming • API Security DAST • Containerized Microservices
-<b>Primary Stack:</b> React 19 • TypeScript • Node.js • Express • MongoDB • Docker • Python
-<b>Industry Experience:</b> Former Cybersecurity Researcher @ RedKross Research Foundation
-<b>Verified Credentials:</b> ISC2 CC • AWS Cloud Practitioner • Hugging Face AI Agents • Helsinki ECTS
-<b>Engineering Philosophy:</b> Zero-downtime, sub-millisecond latency, clean modular code
+<b>👤 Full Name:</b> Atharv R. Gupta
+<b>🎓 University:</b> Mulund College of Commerce (Autonomous), Mumbai
+<b>📜 Degree:</b> B.Sc. in Computer Science (2024–2027)
+<b>💼 Experience:</b> Former Cybersecurity Intern @ RedKross Research Foundation
+<b>📍 Location:</b> Curry Road, Mumbai – 400013, India 🇮🇳
+<b>⚡ Core Strengths:</b> Real-Time FinTech Streaming • API Security DAST • Containerized Microservices
+<b>🛠️ Primary Stack:</b> React 19 • TypeScript • Node.js • Express • MongoDB • Docker • Python
+<b>📜 Credentials:</b> ISC2 CC • AWS Cloud Practitioner • Hugging Face AI Agents • Helsinki ECTS
+<b>🌐 Languages:</b> English, Hindi, Marathi, Spanish (Learning)
+<b>🎯 Engineering Goal:</b> Zero-downtime, sub-millisecond latency, clean modular code
 </pre>
+
+#### 📊 Portfolio Highlights at a Glance
+| 🚀 Engineered Projects | 📜 Global Certifications | 💼 Industry Internship | 🛠️ Technical Skills |
+| :---: | :---: | :---: | :---: |
+| **4+ Production Builds** | **6 Verified Standards** | **RedKross Research** | **32+ Technologies** |
+
+#### 🎓 Education Timeline (100% Verified)
+- 🎓 **Bachelor of Science in Computer Science (B.Sc. CS)** — *Mulund College of Commerce (Autonomous), Mumbai* `[2024 – 2027 | Current]`
+- 🏫 **Higher Secondary Certificate (HSC) – Science** — *Guru Nanak Khalsa College of Arts, Science & Commerce, Mumbai*
+- 🎒 **Secondary School Certificate (SSC)** — *IES VN Sule Guruji English Medium School, Mumbai*
+
+#### 🛡️ Professional Experience
+- **Cybersecurity Intern** — **RedKross Research Foundation** *(05/2026 – 08/2026 | Remote)*
+  - Conducted Web AppSec & Penetration Testing using **Burp Suite** & **OWASP ZAP** across DVWA and Metasploitable (SQLi, XXE, Prototype Pollution, and Web LLM attacks).
+  - Performed static & behavioral **Malware Analysis** on Dridex banking malware samples, along with cryptographic decoding & hash integrity verification using **CyberChef**.
+  - Led **OSINT & Threat Intelligence** investigations leveraging GHDB, Intelligence X, and CVE analysis to map enterprise attack surfaces (ASM).
+  - Executed **Digital Forensics** workflows utilizing Autopsy, and analyzed Active Directory attack vectors & privilege escalation.
 
 #### 🎯 What I Bring to an Engineering Team:
 - 🏎️ **High-Frequency Streaming:** Engineering event-driven WebSockets pipelines handling real-time financial market feeds under 2 seconds.
 - 🛡️ **Security-First Mindset:** Practical experience researching threat vectors, DAST scanners, and OWASP API Top 10 mitigation.
 - 🐳 **Production Containerization:** Architecting multi-stage Docker builds and Docker Compose networks for isolated cloud deployments.
 - 🎨 **Pixel-Perfect UX:** Clean component architecture in React 19 and Tailwind CSS with sub-second page performance.
+
+#### 🎨 Beyond Code & Personal Interests
+`🎤 Singing` &nbsp;•&nbsp; `🎵 Music Production` &nbsp;•&nbsp; `🎨 Sketching` &nbsp;•&nbsp; `🏏 Cricket` &nbsp;•&nbsp; `⚡ Dodgeball`
 
 ---
 
@@ -365,6 +386,6 @@ I engineer scalable full-stack applications with **MERN, TypeScript, and Docker*
   </a>
 
   <!-- 🌊 Bottom Animated Capsule Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=110&section=footer&text=Turning%20Complex%20Systems%20Into%20Resilient%20Code%20%E2%80%A2%20Keep%20Building%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff&fontFamily=Fjalla+One" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=110&section=footer&text=Turning%20Complex%20Systems%20Into%20Resilient%20Code%20%E2%80%A2%20Keep%20Building%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff" width="100%" />
 
 </div>
