@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- 🌟 Top Animated Hero Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=230&section=header&text=Atharv%20R.%20Gupta&fontSize=48&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20FinTech%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=19" width="100%" alt="Atharv Gupta Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=230&section=header&text=Atharv%20R.%20Gupta&fontSize=48&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Developer%20%26%20Cybersecurity%20Researcher&descAlignY=58&descSize=19" width="100%" alt="Atharv Gupta Banner" />
 
   <!-- ⚡ Dynamic Live Neon Typing SVG (Outfit - Portfolio Display Font) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Engineer+%7C+Real-Time+Systems+%26+FinTech;Building+TradeScope+%E2%80%94+Institutional+Indian+Equity+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;MERN+%2B+TypeScript+%2B+Docker+%2B+WebSockets+%2B+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Developer+%7C+MERN+%26+Real-Time+Systems;Building+TradeScope+%E2%80%94+Indian+Equity+%26+Quant+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;React+19+%2B+TypeScript+%2B+Node.js+%2B+Docker+%2B+Python" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -45,59 +45,55 @@
 ---
 
 <!-- ========================================== -->
-<!-- 2. ABOUT SECTION & PERSONAL DOSSIER        -->
+<!-- 2. ABOUT ME & BACKGROUND                   -->
 <!-- ========================================== -->
-### 👨‍💻 Personal Dossier & About Me
+### ⚡ About Me
 
 > *"Building full-stack systems with an engineering-first mindset — turning complex requirements into scalable architectures, secure APIs, and intuitive web experiences that perform reliably in production."*
 
 Computer Science undergraduate focused on **Full-Stack Web Development**, with hands-on experience building and deploying production-oriented web applications using **React.js, Node.js, Express.js, MongoDB, and TypeScript**. Experienced in developing **REST APIs, authentication systems, Progressive Web Apps (PWAs), real-time streaming architectures**, and **AI-powered workflow applications**. Complemented by offensive security & **DAST vulnerability research** at RedKross Research Foundation.
 
-<pre>
-<b>👤 Full Name:</b> Atharv R. Gupta
-<b>🎓 University:</b> Mulund College of Commerce (Autonomous), Mumbai
-<b>📜 Degree:</b> B.Sc. in Computer Science (2024–2027)
-<b>💼 Experience:</b> Former Cybersecurity Intern @ RedKross Research Foundation
-<b>📍 Location:</b> Curry Road, Mumbai – 400013, India 🇮🇳
-<b>⚡ Core Strengths:</b> Real-Time FinTech Streaming • API Security DAST • Containerized Microservices
-<b>🛠️ Primary Stack:</b> React 19 • TypeScript • Node.js • Express • MongoDB • Docker • Python
-<b>📜 Credentials:</b> ISC2 CC • AWS Cloud Practitioner • Hugging Face AI Agents • Helsinki ECTS
-<b>🌐 Languages:</b> English, Hindi, Marathi, Spanish (Learning)
-<b>🎯 Engineering Goal:</b> Zero-downtime, sub-millisecond latency, clean modular code
-</pre>
+| Profile | Details |
+| :--- | :--- |
+| 👤 **Full Name** | **Atharv R. Gupta** |
+| 🎓 **University** | **Mulund College of Commerce (Autonomous), Mumbai** |
+| 📜 **Degree** | **B.Sc. in Computer Science (2024 – 2027)** |
+| 💼 **Experience** | **Cybersecurity Intern** • *RedKross Research Foundation* |
+| 📍 **Location** | **Curry Road, Mumbai – 400013, India 🇮🇳** |
+| 🛠️ **Primary Stack** | `React 19` `TypeScript` `Node.js` `Express` `MongoDB` `Docker` `Python` |
+| 📜 **Credentials** | `ISC2 CC` `AWS Cloud Practitioner` `Hugging Face AI Agents` `Helsinki ECTS` |
+| 🌐 **Languages** | English, Hindi, Marathi, Spanish *(Learning)* |
 
-#### 📊 Portfolio Highlights at a Glance
-| 🚀 Engineered Projects | 📜 Global Certifications | 💼 Industry Internship | 🛠️ Technical Skills |
+| 🚀 4+ Production Builds | 📜 6 Verified Certifications | 💼 RedKross Cybersecurity Intern | 🛠️ 32+ Technical Skills |
 | :---: | :---: | :---: | :---: |
-| **4+ Production Builds** | **6 Verified Standards** | **RedKross Research** | **32+ Technologies** |
 
-#### 🎓 Education Timeline (100% Verified)
+#### 🎓 Education
 - 🎓 **Bachelor of Science in Computer Science (B.Sc. CS)** — *Mulund College of Commerce (Autonomous), Mumbai* `[2024 – 2027 | Current]`
 - 🏫 **Higher Secondary Certificate (HSC) – Science** — *Guru Nanak Khalsa College of Arts, Science & Commerce, Mumbai*
 - 🎒 **Secondary School Certificate (SSC)** — *IES VN Sule Guruji English Medium School, Mumbai*
 
-#### 🛡️ Professional Experience
+#### 💼 Experience
 - **Cybersecurity Intern** — **RedKross Research Foundation** *(05/2026 – 08/2026 | Remote)*
   - Conducted Web AppSec & Penetration Testing using **Burp Suite** & **OWASP ZAP** across DVWA and Metasploitable (SQLi, XXE, Prototype Pollution, and Web LLM attacks).
   - Performed static & behavioral **Malware Analysis** on Dridex banking malware samples, along with cryptographic decoding & hash integrity verification using **CyberChef**.
   - Led **OSINT & Threat Intelligence** investigations leveraging GHDB, Intelligence X, and CVE analysis to map enterprise attack surfaces (ASM).
   - Executed **Digital Forensics** workflows utilizing Autopsy, and analyzed Active Directory attack vectors & privilege escalation.
 
-#### 🎯 What I Bring to an Engineering Team:
-- 🏎️ **High-Frequency Streaming:** Engineering event-driven WebSockets pipelines handling real-time financial market feeds under 2 seconds.
-- 🛡️ **Security-First Mindset:** Practical experience researching threat vectors, DAST scanners, and OWASP API Top 10 mitigation.
-- 🐳 **Production Containerization:** Architecting multi-stage Docker builds and Docker Compose networks for isolated cloud deployments.
-- 🎨 **Pixel-Perfect UX:** Clean component architecture in React 19 and Tailwind CSS with sub-second page performance.
+#### 🎯 Key Technical Capabilities
+- 🏎️ **High-Frequency Streaming:** Event-driven WebSockets pipelines handling real-time financial market feeds under 2 seconds.
+- 🛡️ **Defensive Security:** Researching threat vectors, automated DAST scanners, and OWASP API Top 10 mitigation.
+- 🐳 **Production Containers:** Multi-stage Docker builds and Docker Compose networks for isolated cloud deployments.
+- 🎨 **Responsive UI/UX:** Clean component architecture in React 19 and Tailwind CSS with sub-second page performance.
 
-#### 🎨 Beyond Code & Personal Interests
+#### 🎨 Beyond Code
 `🎤 Singing` &nbsp;•&nbsp; `🎵 Music Production` &nbsp;•&nbsp; `🎨 Sketching` &nbsp;•&nbsp; `🏏 Cricket` &nbsp;•&nbsp; `⚡ Dodgeball`
 
 ---
 
 <!-- ========================================== -->
-<!-- 3. PROJECTS REPO BEST LOOK                 -->
+<!-- 3. FEATURED PROJECTS                       -->
 <!-- ========================================== -->
-### 🚀 Featured Projects & Repositories (Best Look)
+### 🚀 Featured Projects
 
 <!-- Project 1: TradeScope -->
 #### 📈 [TradeScope](https://github.com/Atharv-design/TradeScope) — Institutional Real-Time FinTech Terminal
@@ -204,14 +200,14 @@ Computer Science undergraduate focused on **Full-Stack Web Development**, with h
 ---
 
 <!-- ==================================================== -->
-<!-- 4. COMMITS LIVE & LIVE GITHUB ACTIVITY               -->
+<!-- 4. GITHUB STATS & ACTIVITY                           -->
 <!-- ==================================================== -->
-### 📈 Live Commits & Real-Time Activity
+### 📈 GitHub Stats & Activity
 
 <div align="center">
 
   <!-- 🔥 Live Daily Commit Streak (100% Active Server) -->
-  <h4>🔥 Live Real-Time Commit Streak</h4>
+  <h4>🔥 Daily Commit Streak</h4>
   <img src="https://streak-stats.demolab.com?user=Atharv-design&theme=radical&hide_border=true&background=0D1117&stroke=10B981&ring=38BDF8&fire=F59E0B&currStreakLabel=10B981" alt="GitHub Streak" width="95%" />
 
   <br/><br/>
@@ -233,54 +229,54 @@ Computer Science undergraduate focused on **Full-Stack Web Development**, with h
 ---
 
 <!-- ==================================================== -->
-<!-- 5. TECH STACK WITH LOGOS & HOVER TOOLTIPS           -->
+<!-- 5. TECH STACK & TOOLS                                -->
 <!-- ==================================================== -->
-### 💻 Tech Stack & Arsenal *(Hover Over Any Logo to View Details)*
+### 💻 Tech Stack & Tools
 
 <div align="center">
 
   #### 🌐 Core Programming Languages
   <p align="center">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript: Strongly-Typed Production JavaScript for Scalable Apps" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript (ES6+): Modern Client & Server Development" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python: Scripting, DAST Automation, AI & Security Research" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java: Object-Oriented Architecture, Data Structures & Algorithms" alt="Java" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++: Memory Management, High Performance & Foundational CS" alt="C++" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5: Semantic, Accessible & Modern Web Markup" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3: Responsive Layouts, Flexbox, Grid & Keyframe Animations" alt="CSS3" />
+    <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript: Strongly-Typed Production JavaScript"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript (ES6+): Modern Client & Server Development"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+    <a href="https://www.python.org/" target="_blank" title="Python: Scripting, DAST Automation & Security Research"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+    <a href="https://dev.java/" target="_blank" title="Java: OOP, Data Structures & Algorithms"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+    <a href="https://isocpp.org/" target="_blank" title="C++: Memory Management & Foundational CS"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5: Semantic & Accessible Web Markup"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3: Responsive Layouts & Modern Styling"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
   </p>
 
-  #### ⚛️ Frontend Ecosystem & UI Engineering
+  #### ⚛️ Frontend Ecosystem
   <p align="center">
-    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React.js / React 19: Component-Driven Modern SPAs & Hooks" alt="React.js" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS: Utility-First Rapid Responsive Styling" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" title="Vite: Next-Gen Sub-Second Build & HMR Tooling" alt="Vite" />
-    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" title="Progressive Web Apps: Offline Caching & Native Experience" alt="PWA" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap: Rapid Responsive Grid Layouts" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" title="Axios: Promise-based HTTP Client with Interceptors" alt="Axios" />
+    <a href="https://react.dev/" target="_blank" title="React 19: Component-Driven Modern SPAs & Hooks"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS: Utility-First Rapid Responsive Styling"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+    <a href="https://vite.dev/" target="_blank" title="Vite: Next-Gen Sub-Second Build & HMR Tooling"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+    <a href="https://web.dev/explore/progressive-web-apps" target="_blank" title="Progressive Web Apps: Service Workers & Offline Caching"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" /></a>
+    <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap: Rapid Responsive Grid Layouts"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+    <a href="https://axios-http.com/" target="_blank" title="Axios: Promise-Based HTTP Client with Interceptors"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" /></a>
   </p>
 
-  #### ⚙️ Backend Architecture & Real-Time Runtimes
+  #### ⚙️ Backend Architecture & Databases
   <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.js: Asynchronous Non-Blocking Event-Driven Runtime" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js: Robust RESTful API Routing & Custom Middlewares" alt="Express.js" />
-    <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" title="Socket.IO & WebSockets: Bi-Directional Low-Latency Streaming" alt="Socket.IO" />
-    <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB Atlas: Document NoSQL Database with Mongoose ODM" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL: Relational Schema Design, Joins & ACID Transactions" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" title="Redis: In-Memory Key-Value Caching & BullMQ Queues" alt="Redis" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL: Declarative API Query Language & Resolvers" alt="GraphQL" />
+    <a href="https://nodejs.org/" target="_blank" title="Node.js: Asynchronous Non-Blocking Event-Driven Runtime"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+    <a href="https://expressjs.com/" target="_blank" title="Express.js: Robust RESTful API Routing & Custom Middlewares"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+    <a href="https://socket.io/" target="_blank" title="Socket.IO & WebSockets: Bi-Directional Low-Latency Streaming"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" /></a>
+    <a href="https://www.mongodb.com/" target="_blank" title="MongoDB Atlas: Document NoSQL Database with Mongoose ODM"><img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+    <a href="https://www.mysql.com/" target="_blank" title="MySQL: Relational Schema Design, Joins & ACID Transactions"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+    <a href="https://redis.io/" target="_blank" title="Redis: In-Memory Key-Value Caching & BullMQ Queues"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
+    <a href="https://graphql.org/" target="_blank" title="GraphQL: Declarative API Query Language & Resolvers"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
   </p>
 
-  #### 🛡️ Cybersecurity, Cloud, Containers & DevOps
+  #### 🛡️ Cybersecurity, Cloud & DevOps
   <p align="center">
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" title="Burp Suite: Web Application Security Auditing & Intercepting Proxy" alt="Burp Suite" />
-    <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" title="OWASP ZAP: Automated Dynamic Application Security Testing" alt="OWASP ZAP" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker & Docker Compose: Containerization & Isolated Multi-Service Setup" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git: Version Control, Branching Strategy & Merge Workflows" alt="Git" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux: Terminal Shell, Process Management & Server Administration" alt="Linux" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman: API Testing, Mock Servers & Integration Verification" alt="Postman" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel: Serverless Edge Hosting & Production Deployment" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" title="Render: Cloud Application Hosting & Backend Web Services" alt="Render" />
+    <a href="https://portswigger.net/burp" target="_blank" title="Burp Suite: Web Application Security Auditing & Intercepting Proxy"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" /></a>
+    <a href="https://www.zaproxy.org/" target="_blank" title="OWASP ZAP: Automated Dynamic Application Security Testing"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" /></a>
+    <a href="https://www.docker.com/" target="_blank" title="Docker & Docker Compose: Containerization & Isolated Multi-Service Setup"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+    <a href="https://git-scm.com/" target="_blank" title="Git: Version Control, Branching Strategy & Merge Workflows"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+    <a href="https://www.kernel.org/" target="_blank" title="Linux: Terminal Shell, Process Management & Server Administration"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+    <a href="https://www.postman.com/" target="_blank" title="Postman: API Testing, Mock Servers & Integration Verification"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+    <a href="https://vercel.com/" target="_blank" title="Vercel: Serverless Edge Hosting & Production Deployment"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+    <a href="https://render.com/" target="_blank" title="Render: Cloud Application Hosting & Backend Web Services"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" /></a>
   </p>
 
   <br/>
@@ -295,9 +291,9 @@ Computer Science undergraduate focused on **Full-Stack Web Development**, with h
 ---
 
 <!-- ==================================================== -->
-<!-- 6. CERTIFICATIONS WITH REAL PHOTOS GALLERY           -->
+<!-- 6. CERTIFICATIONS & ACCREDITATIONS                   -->
 <!-- ==================================================== -->
-### 📜 Verified Global Certifications *(With Official Photos)*
+### 📜 Certifications & Accreditations
 
 <div align="center">
 
