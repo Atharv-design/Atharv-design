@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- 🌟 Top Animated Hero Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=230&section=header&text=Atharv%20R.%20Gupta&fontSize=48&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20FinTech%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=19" width="100%" alt="Atharv Gupta Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=230&section=header&text=Atharv%20R.%20Gupta&fontSize=48&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20FinTech%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=19&fontFamily=Fjalla+One" width="100%" alt="Atharv Gupta Banner" />
 
   <!-- ⚡ Dynamic Live Neon Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Engineer+%7C+Real-Time+Systems+%26+FinTech;Building+TradeScope+%E2%80%94+Institutional+Indian+Equity+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;MERN+%2B+TypeScript+%2B+Docker+%2B+WebSockets+%2B+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&weight=600&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=840&lines=Full-Stack+Engineer+%7C+Real-Time+Systems+%26+FinTech;Building+TradeScope+%E2%80%94+Institutional+Indian+Equity+PWA;Creator+of+ATHX+%E2%80%94+Automated+API+DAST+%2B+AI+Remediation;ISC2+Certified+in+Cybersecurity+(CC)+%E2%80%A2+AWS+Accredited;MERN+%2B+TypeScript+%2B+Docker+%2B+WebSockets+%2B+Python" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -77,38 +77,6 @@ I engineer scalable full-stack applications with **MERN, TypeScript, and Docker*
 <!-- 3. PROJECTS REPO BEST LOOK                 -->
 <!-- ========================================== -->
 ### 🚀 Featured Projects & Repositories (Best Look)
-
-<!-- Live Repo Cards Grid -->
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Atharv-design/TradeScope">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Atharv-design&repo=TradeScope&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=94A3B8" alt="TradeScope Repo Card" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Atharv-design/api-security-scanner">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Atharv-design&repo=api-security-scanner&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=94A3B8" alt="ATHX Repo Card" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Atharv-design/NeuroFlow">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Atharv-design&repo=NeuroFlow&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=94A3B8" alt="NeuroFlow Repo Card" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Atharv-design/Portfolio">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Atharv-design&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=94A3B8" alt="Portfolio Repo Card" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 <!-- Project 1: TradeScope -->
 #### 📈 [TradeScope](https://github.com/Atharv-design/TradeScope) — Institutional Real-Time FinTech Terminal
@@ -397,6 +365,6 @@ I engineer scalable full-stack applications with **MERN, TypeScript, and Docker*
   </a>
 
   <!-- 🌊 Bottom Animated Capsule Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=110&section=footer&text=Turning%20Complex%20Systems%20Into%20Resilient%20Code%20%E2%80%A2%20Keep%20Building%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=110&section=footer&text=Turning%20Complex%20Systems%20Into%20Resilient%20Code%20%E2%80%A2%20Keep%20Building%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff&fontFamily=Fjalla+One" width="100%" />
 
 </div>
